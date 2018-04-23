@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ReportUtility.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ReportTitle" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Time Record</Value>
+    </Setting>
+    <Setting Name="CertifierName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">[Certifier Name]</Value>
+    </Setting>
+    <Setting Name="CertifierDept" Type="System.String" Scope="User">
+      <Value Profile="(Default)">[Certifier Dept]</Value>
+    </Setting>
+    <Setting Name="CertifierPosition" Type="System.String" Scope="User">
+      <Value Profile="(Default)">[Certifier Position]</Value>
+    </Setting>
+    <Setting Name="ApproverName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">[Approver Name]</Value>
+    </Setting>
+    <Setting Name="ApproverDept" Type="System.String" Scope="User">
+      <Value Profile="(Default)">[Approver Dept]</Value>
+    </Setting>
+    <Setting Name="ApproverPosition" Type="System.String" Scope="User">
+      <Value Profile="(Default)">[Approver Position]</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
